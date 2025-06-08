@@ -1,4 +1,4 @@
-# 🧬 Structural Protein Sequences using NLP
+# 🧬 Structural Protein Sequences Classification
 
 This project explores the application of Natural Language Processing (NLP) techniques to classify structural protein sequences. By treating protein sequences like natural language, we leverage deep learning models specifically BiLSTM to identify and classify structural types based on sequence patterns.
 
@@ -80,4 +80,4 @@ jupyter notebook
 
 ## 🗒️ License
 
-Structural Protein Sequences using NLP is [GPL V3](./LICENSE)
+Structural Protein Sequences Classification is [GPL V3](./LICENSE)
